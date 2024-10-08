@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My awesome blog",
+      "body": "Lorem ipsum",
+      "author": "cama",
+      "id": "1"
+    },
+    {
+      "title": "Welcome to my blog",
+      "body": "Lorem ipsum",
+      "author": "mela",
+      "id": "2"
+    },
+    {
+      "title": "Go and check my website",
+      "body": "Lorem ipsum",
+      "author": "cama",
+      "id": "3"
+    },
+    {
+      "id": "b9c1",
+      "title": "Camaraderie ",
+      "body": "Kukue",
+      "author": "cama"
+    }
+  ]
+}
