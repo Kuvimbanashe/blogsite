@@ -1,6 +1,6 @@
 import {useState, useEffect} from 'react';
 
-const usefetch = (url)=>{
+const UseFetch = (url)=>{
 
 const [data,setData]= useState(null);
 const [isPending,setPending]=useState(true);
@@ -45,4 +45,4 @@ return () => abortCont.abort();
 return {data,error, isPending};
 }
 
-export default usefetch;
+export default UseFetch
